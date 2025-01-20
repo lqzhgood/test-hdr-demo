@@ -55,7 +55,8 @@ body {
             transparent 100%
         );
         mix-blend-mode: color-dodge;
-        /* filter: brightness(5); */
+        /* HDR */
+        filter: brightness(5);
     }
 
     &::after,
